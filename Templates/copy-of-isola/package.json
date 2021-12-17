@@ -1,0 +1,42 @@
+{
+  "name": "neverendingpretending.net (née Isola)",
+  "locals": {
+    "lang": "en-US",
+    "page_size": "4",
+    "author": "",
+    "subtitle": ""
+  },
+  "views": {
+    "archives.html": {
+      "url": "/archives",
+      "partials": {
+        "title": "Archives - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    },
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}"
+      }
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}} - {{subtitle}}",
+        "description": "The latest entries posted on {{{title}}}"
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    }
+  }
+}
