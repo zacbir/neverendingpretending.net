@@ -5,4 +5,4 @@ I love Warhammer Fantasy Roleplay. Been a fan of it since its first edition back
 
 
 
-![Title Page for Divers Hazards](_divers-hazards.png.png)
+![Title Page for Divers Hazards](images/_divers-hazards.png.png)

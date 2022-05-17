@@ -1,1 +1,1 @@
-When I was a kid, I didn't restrict my toys to canonical play. He-Man mixed with GI Joe mixed with Star Wars in buildings made from blocks, Lincoln Logs, discarded cardboard, and random interested elements in the garden outside.
+When I was a kid, I didn't restrict my toys to canonical play. He-Man mixed with GI Joe mixed with Star Wars in buildings made from blocks, Lincoln Logs, discarded cardboard, and random interesting elements in the garden outside.
