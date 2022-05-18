@@ -1,5 +1,5 @@
 Date: 2022-05-12 19:30
-# _Family Ties_ - Character Creation
+# _Family Ties_ - Session 0: Character Creation
 I recently started getting more interested in [Ironsworn](https://ironswornrpg.com) as the engine for some solo roleplaying. But instead of running in the quasi-Medieval Ironlands setting, I wanted to try a modern urban horror game. Based on some recommendations and feedback, I chose to use the new [Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) system, just removing the starship and exploration aspects, and modifying some of the assets and tables in play.
 
 {|<} Kult relies heavily on many themes and ideas found in Gnostic traditions. The world we inhabit and navigate is an illusory construct. We humans have been blindered to our own divinity, trapped in a material cage. A quasi-religious Matrix, if you will.
