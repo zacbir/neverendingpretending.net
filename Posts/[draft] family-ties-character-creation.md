@@ -30,3 +30,4 @@ The last step to getting this story started is an inciting event. In Simon's cas
 
 > "Mister Simon Brinkman? This is Sergeant Dennis Beauchamp with the Virginia State Police. This call is in regards to a Matthew Brinkman. Please call at your earliest convenience. Day or night. Thank you."
 
+In the next session, we'll witness Simon's father's funeral, and see how he handles family he hasn't seen in years.
