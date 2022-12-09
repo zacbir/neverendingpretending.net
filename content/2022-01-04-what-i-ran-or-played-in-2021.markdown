@@ -1,6 +1,8 @@
+Title: What I Ran or Played in 2021
 Date: 2022-01-04 12:39
+Slug: what-i-ran-or-played-in-2021
+Tags: RPG
 
-# What I Ran or Played in 2021
 In preparation for this blog, I thought it might be wise to talk about some of the games I ran or played in 2021. The year started off strong as we were still in the throes of COVID's first lockdown and vaccines weren't yet available. I was playing RPGs roughly five nights a week with a good mix as GM and as player. As summer approached and the world seemed to be waking up a bit, sessions dropped to three or fewer times per week. In that time, I ran or played the following systems/settings:
 
 ## Ran

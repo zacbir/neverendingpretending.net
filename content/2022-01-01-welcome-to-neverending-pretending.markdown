@@ -1,6 +1,9 @@
+Title: Welcome to Neverending Pretending
 Date: 2022-01-01 06:15
+Slug: welcome-to-neverending-pretending
+Tags: Intro, RPG
 
-# New Year, New Blog
+## New Year, New Blog
 > "The beginning is the most important part of the work. " - Plato
 
 > "Now is better than never." - The Zen of Python

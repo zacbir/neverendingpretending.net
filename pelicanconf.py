@@ -29,6 +29,8 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
+CATEGORIES = ()
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
@@ -38,7 +40,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 THEME = 'Peli-Kiera'
 
 # PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
-PLUGINS = ['liquid_tags', 'search', 'neighbors']
+PLUGINS = ['liquid_tags', 'search', 'neighbors', 'simple_footnotes']
 
 LIQUID_TAGS = ["img"]
 
@@ -48,6 +50,6 @@ STATIC_PATHS = ['images', 'static', '.well-known']
 
 EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
-COPYRIGHT = '2013-2022'
+COPYRIGHT = '2022'
 
 CUSTOM_CSS_FILE = 'static/css/custom.css'
