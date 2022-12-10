@@ -32,7 +32,7 @@ CONFIG = {
     'ssh_path': '/var/www/new.neverendingpretending.net',
     # Host and port for `serve`
     'host': 'localhost',
-    'port': 8000,
+    'port': 8080,
 }
 
 @task
@@ -59,7 +59,7 @@ def regenerate(c):
 
 @task
 def serve(c):
-    """Serve site at http://$HOST:$PORT/ (default is localhost:8000)"""
+    """Serve site at http://$HOST:$PORT/ (default is localhost:8080)"""
 
     class AddressReuseTCPServer(RootedHTTPServer):
         allow_reuse_address = True
