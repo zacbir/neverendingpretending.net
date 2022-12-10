@@ -51,5 +51,3 @@ STATIC_PATHS = ['images', 'static', '.well-known']
 EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
 COPYRIGHT = '2022'
-
-CUSTOM_CSS_FILE = 'static/css/custom.css'
