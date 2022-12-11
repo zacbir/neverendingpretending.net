@@ -1,6 +1,7 @@
 AUTHOR = 'Zac Bir'
 SITENAME = 'Neverending Pretending'
 SITEURL = 'http://localhost:8080'
+PORT = 8080
 
 PATH = 'content'
 
@@ -46,7 +47,7 @@ LIQUID_TAGS = ["img"]
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATHS = ['images', '.well-known']
+STATIC_PATHS = ['images', 'static', '.well-known']
 
 EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
