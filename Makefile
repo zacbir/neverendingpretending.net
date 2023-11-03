@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=new.zacbir.net
 SSH_PORT=22
 SSH_USER=alice
-SSH_TARGET_DIR=/var/www/neverendingpretending.net
+SSH_TARGET_DIR=/var/www/neverendingpretending.net/siteroot
 
 
 DEBUG ?= 0
