@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 MENUITEMS = (
-    ('Mastodon', 'https://dice.camp/@zacbir'),
+    ('Micro', 'https://micro.neverendingpretending.net'),
     ('Itch.io', 'https://zacbir.itch.io'),
     ('Archives', '/archives.html')
 )
@@ -43,7 +43,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 THEME = 'zacbir-Kiera'
 
 # PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
-PLUGINS = ['liquid_tags', 'search', 'neighbors', 'simple_footnotes']
+PLUGINS = ['liquid_tags', 'neighbors', 'simple_footnotes']
 
 LIQUID_TAGS = ["img"]
 
