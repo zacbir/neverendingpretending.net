@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 MENUITEMS = (
-    ('Micro', 'https://micro.neverendingpretending.net'),
+    ('Mastodon', 'https://dice.camp/@neverendingpretending'),
     ('Itch.io', 'https://zacbir.itch.io'),
     ('Archives', '/archives.html')
 )
@@ -49,8 +49,8 @@ LIQUID_TAGS = ["img"]
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATHS = ['images', 'static', '.well-known']
+STATIC_PATHS = ['images', 'static']
 
-EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
+EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@neverendingpretending">'
 
 COPYRIGHT = '2022'
